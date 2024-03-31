@@ -4,7 +4,6 @@
 # 适用于Clash的Rule Provider功能，详见https://lancellc.gitbook.io/clash/clash-config-file/rule-provider
 payload:
 - DOMAIN-SUFFIX,bilivideo.com,DIRECT
-- DOMAIN-SUFFIX,akamaized.net,DIRECT
 - DOMAIN-SUFFIX,hdslb.com,DIRECT
 - DOMAIN-SUFFIX,szbdyd.com,DIRECT
 - DOMAIN-SUFFIX,zijieapi.com,DIRECT
