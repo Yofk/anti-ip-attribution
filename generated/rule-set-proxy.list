@@ -1,5 +1,5 @@
 # 针对部分网站显示IP归属地的分流规则
-# anti-ip-attribution rule-set-proxy.list v0.3.1 e6b145d18f62d0005e7024fada6e6ee0b170b751
+# anti-ip-attribution rule-set-proxy.list v0.3.1 0bde691ae1d3f0aade1bf91b395fab909c863fce
 # https://github.com/lwd-temp/anti-ip-attribution
 # 适用于Clash RULE-SET
 DOMAIN-SUFFIX,biliapi.net
@@ -133,6 +133,7 @@ IP-CIDR,120.53.130.158/32,no-resolve
 DOMAIN,frodo.douban.com
 DOMAIN,www.douban.com
 DOMAIN,api.coolapk.com
+DOMAIN,api2.coolapk.com
 DOMAIN,api.taptapdada.com
 DOMAIN,god.gameyw.netease.com
 DOMAIN-SUFFIX,huya.com
@@ -180,3 +181,5 @@ DOMAIN,api.xiaoheihe.cn
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,zonai.skland.com
 DOMAIN-SUFFIX,soulapp.cn
+DOMAIN,druidv6.if.qidian.com
+DOMAIN,ptlogin6.qidian.com
